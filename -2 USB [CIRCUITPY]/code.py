@@ -20,7 +20,7 @@ FRAME_DURATION_OVERRIDES = {
 }
 
 # --- Display setup ---
-matrix = Matrix(bit_depth=4)
+matrix = Matrix(bit_depth=2)
 sprite_group = displayio.Group()
 matrix.display.show(sprite_group)
 
