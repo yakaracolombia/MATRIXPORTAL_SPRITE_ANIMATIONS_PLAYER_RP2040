@@ -10,7 +10,7 @@ en el cual se hace uso del pin gp29 no existente en el pi pico 2040 tradicional
 
 Asi que me di a la tarea de remapear los pines para hacerlo totalmente compatible con la rapsberry pi pico: https://s.click.aliexpress.com/e/_Ddxk4E3
 
-Se puede usar el basido de 4 MB de almacenamiento de las cuales dispondremos unicamente de 611 KB para imagenes o mi recomendacion usar una pi pico de 16 MB para disponer de 12.6 MB para imagenes y animaciones
+Se puede usar una raspberry pi pico de 4 MB de almacenamiento de las cuales dispondremos unicamente de 611 KB para imagenes o mi recomendacion usar una pi pico de 16 MB para disponer de 12.6 MB para imagenes y animaciones
 
 he remapeado los pines de adafruit por los comunes en Raspberry Pi Pico 2040 gracias a la documentacion en: https://www.waveshare.com/wiki/RGB-Matrix-P3-64x32#cite_note-2
 
