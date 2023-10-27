@@ -19,7 +19,9 @@ ademas en el video tutorial: https://www.youtube.com/channel/UCewluu5y7lA4QnXBJa
 se enseña de manera simple a redimencionar imagenes y hasta a convertir .gif o plantillas de sprites a animaciones compatibles con cuetros proyecto
 
 pagina para redimencionar y crear animaciones: https://www.piskelapp.com/p/create/sprite
-pagina para convertir a bmp: https://imagen.online-convert.com/es/convertir-a-
+pagina para convertir a bmp: https://imagen.online-convert.com/es/convertir-a-bmp
+pagina de gifs: https://gifer.com/es
+
 
 
 si deseas modificar en tiempo real el codigo para ajustarlo a futuras actualizaciones o cambios en el codigo, la mejor herramienta es el mu editor: https://codewith.mu/en/download
